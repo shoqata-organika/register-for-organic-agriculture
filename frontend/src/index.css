@@ -1,0 +1,194 @@
+:root {
+  font-size: 16px;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+
+  --primary-clr: #3cb46e;
+  --primary-200-clr: #9ccf75;
+  --secondary-clr: #f4f4f4;
+  --triary-clr: #abb8c3;
+  --triary-200-clr: #f8f9fa;
+  --dark-clr: #244b5a;
+  --error-clr: #ed4544;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+  padding: 0;
+  margin: 0;
+}
+
+span,
+a {
+  display: inline-block;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+img,
+picture,
+figcaption,
+picture {
+  disaply: block;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.leaflet-bottom.leaflet-right {
+  display: none !important;
+}
+
+.disabled-datepicker {
+  pointer-events: none;
+  opacity: 0.4;
+}
+
+.policy-list-item {
+  list-style-type: square;
+  list-style-position: inside;
+}
+
+.disabled-btn {
+  pointer-events: none;
+  opacity: 0.4;
+}
+
+.disabled-clr {
+  color: rgba(0, 0, 0, 0.3);
+}
+
+.disabled {
+  color: rgba(0, 0, 0, 0.3);
+  pointer-events: none;
+  opacity: 0.4;
+}
+
+.dash {
+  height: 1px;
+}
+
+.arrow-up {
+  animation: arrowup .3s ease forwards;
+}
+
+.arrow-bottom {
+  animation: arrowbottom .3s ease forwards;
+}
+
+/* Custom styles to set background color and show an SVG checkmark */
+input[type="checkbox"] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: 2px solid #000;
+  border-radius: 4px;
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  position: relative;
+  outline: none; /* Remove default focus outline */
+}
+
+.react-datepicker {
+  border: none !important;
+}
+
+.react-datepicker__header.react-datepicker__header--custom,
+.react-datepicker__header.react-datepicker-year-header {
+  background: white !important;
+  border-bottom: 1px solid #ddd !important;
+}
+
+.react-datepicker__year-wrapper {
+  max-width: 100% !important;
+  justify-content: center !important;
+}
+
+.react-datepicker__month-container,
+.react-datepicker {
+  width: 100% !important;
+}
+
+.react-datepicker__month-wrapper {
+  margin: 5px 0px !important;
+}
+
+.react-datepicker__year-wrapper {
+  row-gap: 5px !important;
+}
+
+.react-datepicker__month.react-datepicker__monthPicker {
+  margin-top: 1rem !important;
+}
+
+.react-datepicker__year {
+  margin-top: 1rem !important;
+}
+
+.react-datepicker__header.react-datepicker-year-header {
+  padding-bottom: 1rem;
+}
+
+.react-datepicker__month-text--keyboard-selected {
+  background-color: hsl(var(--primary)) !important;
+  color: white !important;
+  font-weight: bold;
+}
+
+.react-datepicker__year-text--selected {
+  background-color: hsl(var(--primary)) !important;
+  color: white !important;
+  font-weight: bold;
+}
+
+.show_on_top {
+  bottom: 120%;
+  z-index: 99999999 !important;
+}
+
+input[type="checkbox"]:checked {
+  background-color: green;
+  border-color: green;
+}
+
+input[type="checkbox"]:checked:hover {
+  background-color: green;
+}
+
+input[type="checkbox"]:checked:focus {
+  background-color: green;
+}
+
+@keyframes arrowbottom {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(-180deg);
+  }
+}
+
+@keyframes arrowup {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(180deg);
+  }
+}

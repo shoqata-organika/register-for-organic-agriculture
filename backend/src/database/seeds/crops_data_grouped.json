@@ -1,0 +1,1794 @@
+[
+    {
+        "name": "Achillea millefolium",
+        "name_sq": "Bar pezmi",
+        "name_sr": "Stolisnik",
+        "part1": "flores",
+        "part2": "herba",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "flores"
+            },
+            {
+                "name": "herba"
+            }
+        ]
+    },
+    {
+        "name": "Alchemilla vulgaris",
+        "name_sq": "Çaji viraku",
+        "name_sr": "Virak",
+        "part1": "folia",
+        "part2": "herba",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "folia"
+            },
+            {
+                "name": "herba"
+            }
+        ]
+    },
+    {
+        "name": "Alium ampeloprasum",
+        "name_sq": "Qepa egë",
+        "name_sr": "Divlji luk",
+        "part1": "herba",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "herba"
+            }
+        ]
+    },
+    {
+        "name": "Alium ursinum",
+        "name_sq": "Qepe arusha",
+        "name_sr": "Medvjeđi luk",
+        "part1": "folia",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "folia"
+            }
+        ]
+    },
+    {
+        "name": "Althaea officinalis",
+        "name_sq": "Mëllaga bardhë",
+        "name_sr": "Pitomi sljez",
+        "part1": "folia",
+        "part2": "flores",
+        "part3": "radix",
+        "part4": "",
+        "parts": [
+            {
+                "name": "folia"
+            },
+            {
+                "name": "flores"
+            },
+            {
+                "name": "radix"
+            }
+        ]
+    },
+    {
+        "name": "Arctium lappa",
+        "name_sq": "Rrodhe e madhe",
+        "name_sr": "Veliki čičak",
+        "part1": "radix",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "radix"
+            }
+        ]
+    },
+    {
+        "name": "Arctostaphylos uva-ursi",
+        "name_sq": "Rrush arusha",
+        "name_sr": "Medvjetka",
+        "part1": "folia",
+        "part2": "herba",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "folia"
+            },
+            {
+                "name": "herba"
+            }
+        ]
+    },
+    {
+        "name": "Artemisa vulgaris",
+        "name_sq": "Pelini i zakonshëm",
+        "name_sr": "Divlji pelin",
+        "part1": "herba",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "herba"
+            }
+        ]
+    },
+    {
+        "name": "Artemisia absinthium",
+        "name_sq": "Pelini Avicenes",
+        "name_sr": "Pelen",
+        "part1": "folia",
+        "part2": "herba",
+        "part3": "radix",
+        "part4": "",
+        "parts": [
+            {
+                "name": "folia"
+            },
+            {
+                "name": "herba"
+            },
+            {
+                "name": "radix"
+            }
+        ]
+    },
+    {
+        "name": "Artemisia annua",
+        "name_sq": "Pelini Ëmbël",
+        "name_sr": "Slatki pelen",
+        "part1": "herba",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "herba"
+            }
+        ]
+    },
+    {
+        "name": "Arum maculatum",
+        "name_sq": "Këlkeza e njollosur",
+        "name_sr": "Kozlac",
+        "part1": "herba",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "herba"
+            }
+        ]
+    },
+    {
+        "name": "Bellis perennis",
+        "name_sq": "Lule shqerre",
+        "name_sr": "Krasuljak",
+        "part1": "flores",
+        "part2": "herba",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "flores"
+            },
+            {
+                "name": "herba"
+            }
+        ]
+    },
+    {
+        "name": "Betula pendula",
+        "name_sq": "Mështekna",
+        "name_sr": "Breza",
+        "part1": "folia",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "folia"
+            }
+        ]
+    },
+    {
+        "name": "Calendula officinalis",
+        "name_sq": "Kalendula",
+        "name_sr": "Neven",
+        "part1": "flores",
+        "part2": "petals",
+        "part3": "seed",
+        "part4": "seedling",
+        "parts": [
+            {
+                "name": "flores"
+            },
+            {
+                "name": "petals"
+            },
+            {
+                "name": "seed"
+            },
+            {
+                "name": "seedling"
+            }
+        ]
+    },
+    {
+        "name": "Carlina acaulis",
+        "name_sq": "Ushojëza pa kërcell",
+        "name_sr": "Kravljak",
+        "part1": "radix",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "radix"
+            }
+        ]
+    },
+    {
+        "name": "Castanea sativa",
+        "name_sq": "Gështënja",
+        "name_sr": "Kesten",
+        "part1": "flores",
+        "part2": "herba",
+        "part3": "radix",
+        "part4": "",
+        "parts": [
+            {
+                "name": "flores"
+            },
+            {
+                "name": "herba"
+            },
+            {
+                "name": "radix"
+            }
+        ]
+    },
+    {
+        "name": "Centaurea cyanus blue",
+        "name_sq": "Ciani Kalter",
+        "name_sr": "Plavi Cian",
+        "part1": "flores",
+        "part2": "petals",
+        "part3": "semen",
+        "part4": "seed",
+        "parts": [
+            {
+                "name": "flores"
+            },
+            {
+                "name": "petals"
+            },
+            {
+                "name": "semen"
+            },
+            {
+                "name": "seed"
+            }
+        ]
+    },
+    {
+        "name": "Centaurium erythrae",
+        "name_sq": "Bar ethësh",
+        "name_sr": "Gorcica",
+        "part1": "flores",
+        "part2": "herba",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "flores"
+            },
+            {
+                "name": "herba"
+            }
+        ]
+    },
+    {
+        "name": "Corylus avelana",
+        "name_sq": "Lajthia",
+        "name_sr": "Leska",
+        "part1": "fructus",
+        "part2": "folia",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "fructus"
+            },
+            {
+                "name": "folia"
+            }
+        ]
+    },
+    {
+        "name": "Crataegus monogyna",
+        "name_sq": "Murrizi",
+        "name_sr": "Bijeli glog",
+        "part1": "flores",
+        "part2": "folia",
+        "part3": "fructus",
+        "part4": "",
+        "parts": [
+            {
+                "name": "flores"
+            },
+            {
+                "name": "folia"
+            },
+            {
+                "name": "fructus"
+            }
+        ]
+    },
+    {
+        "name": "Crocus sativa",
+        "name_sq": "Shafran",
+        "name_sr": "Safran",
+        "part1": "flores",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "flores"
+            }
+        ]
+    },
+    {
+        "name": "Cydonia oblonga",
+        "name_sq": "Ftoni",
+        "name_sr": "Dunja",
+        "part1": "fructus",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "fructus"
+            }
+        ]
+    },
+    {
+        "name": "Althaea rosea nigra",
+        "name_sq": "Mëllaga zezë",
+        "name_sr": "Vrtni sljez",
+        "part1": "folia",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "folia"
+            }
+        ]
+    },
+    {
+        "name": "Centaurea cyanus pink",
+        "name_sq": "Ciani rozë",
+        "name_sr": "Cian roze",
+        "part1": "flores",
+        "part2": "petals",
+        "part3": "Semen",
+        "part4": "",
+        "parts": [
+            {
+                "name": "flores"
+            },
+            {
+                "name": "petals"
+            },
+            {
+                "name": "Semen"
+            }
+        ]
+    },
+    {
+        "name": "Centaurea cyanus white",
+        "name_sq": "Ciani bardh",
+        "name_sr": "Beli cian",
+        "part1": "flores",
+        "part2": "Petals",
+        "part3": "Semen",
+        "part4": "",
+        "parts": [
+            {
+                "name": "flores"
+            },
+            {
+                "name": "Petals"
+            },
+            {
+                "name": "Semen"
+            }
+        ]
+    },
+    {
+        "name": "Fragaria vesca",
+        "name_sq": "Dredhëza mali",
+        "name_sr": "Sumska jagoda",
+        "part1": "Folia",
+        "part2": "Fruit",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Folia"
+            },
+            {
+                "name": "Fruit"
+            }
+        ]
+    },
+    {
+        "name": "Helianthus annus",
+        "name_sq": "Luledielli",
+        "name_sr": "Suncokret",
+        "part1": "Petals",
+        "part2": "Flores",
+        "part3": "Semen",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Petals"
+            },
+            {
+                "name": "Flores"
+            },
+            {
+                "name": "Semen"
+            }
+        ]
+    },
+    {
+        "name": "Hypericum perforatum",
+        "name_sq": "Lulebasami",
+        "name_sr": "Kantarion",
+        "part1": "Herba",
+        "part2": "Semen",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Herba"
+            },
+            {
+                "name": "Semen"
+            }
+        ]
+    },
+    {
+        "name": "Juniperus Communis",
+        "name_sq": "Dëllinja e zezë",
+        "name_sr": "Kleka",
+        "part1": "Fructus",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Fructus"
+            }
+        ]
+    },
+    {
+        "name": "Lavandula vera",
+        "name_sq": "Lavendula",
+        "name_sr": "Lavanda",
+        "part1": "Flores",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Flores"
+            }
+        ]
+    },
+    {
+        "name": "Levisticum officinale",
+        "name_sq": "Levistikum",
+        "name_sr": "Ljupčac",
+        "part1": "Herba",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Herba"
+            }
+        ]
+    },
+    {
+        "name": "Malus sylvestris",
+        "name_sq": "Molla e eger",
+        "name_sr": "Divlja jabuka",
+        "part1": "Fructus",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Fructus"
+            }
+        ]
+    },
+    {
+        "name": "Malva sylvestris",
+        "name_sq": "Mëllaga e pyjeve",
+        "name_sr": "Crni slez",
+        "part1": "Folia",
+        "part2": "Semen",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Folia"
+            },
+            {
+                "name": "Semen"
+            }
+        ]
+    },
+    {
+        "name": "Matricaria chamomilla",
+        "name_sq": "Kamomila",
+        "name_sr": "Kamilica",
+        "part1": "Flores",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Flores"
+            }
+        ]
+    },
+    {
+        "name": "Mentha piperita",
+        "name_sq": "Menta",
+        "name_sr": "Metvica",
+        "part1": "Folia",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Folia"
+            }
+        ]
+    },
+    {
+        "name": "Mentha spicata",
+        "name_sq": "Menta",
+        "name_sr": "Metvica",
+        "part1": "Folia",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Folia"
+            }
+        ]
+    },
+    {
+        "name": "Origanum heracleoticum",
+        "name_sq": "Rigoni roze",
+        "name_sr": "Mravinac roze",
+        "part1": "Folia",
+        "part2": "Pulvis",
+        "part3": "Semen",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Folia"
+            },
+            {
+                "name": "Pulvis"
+            },
+            {
+                "name": "Semen"
+            }
+        ]
+    },
+    {
+        "name": "Rosa canina",
+        "name_sq": "Trendafili I egër",
+        "name_sr": "Divlja ruza",
+        "part1": "Cortex",
+        "part2": "Fructus",
+        "part3": "Pulvis",
+        "part4": "Semen",
+        "parts": [
+            {
+                "name": "Cortex"
+            },
+            {
+                "name": "Fructus"
+            },
+            {
+                "name": "Pulvis"
+            },
+            {
+                "name": "Semen"
+            }
+        ]
+    },
+    {
+        "name": "Rubus fructicosus",
+        "name_sq": "Manaferra",
+        "name_sr": "Kupina",
+        "part1": "folia",
+        "part2": "fructus",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "folia"
+            },
+            {
+                "name": "fructus"
+            }
+        ]
+    },
+    {
+        "name": "Rubus idaeus",
+        "name_sq": "Mjedrra",
+        "name_sr": "Malina",
+        "part1": "folia",
+        "part2": "fructus",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "folia"
+            },
+            {
+                "name": "fructus"
+            }
+        ]
+    },
+    {
+        "name": "Salvia officinalis",
+        "name_sq": "Sherbela",
+        "name_sr": "žalfija",
+        "part1": "herba",
+        "part2": "folia",
+        "part3": "semen",
+        "part4": "seed",
+        "parts": [
+            {
+                "name": "herba"
+            },
+            {
+                "name": "folia"
+            },
+            {
+                "name": "semen"
+            },
+            {
+                "name": "seed"
+            }
+        ]
+    },
+    {
+        "name": "Sambucus ebulus",
+        "name_sq": "Shpendra",
+        "name_sr": "Abdovina",
+        "part1": "Fructus",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Fructus"
+            }
+        ]
+    },
+    {
+        "name": "Sambucus nigra",
+        "name_sq": "Shtogu",
+        "name_sr": "Crna bazga",
+        "part1": "Flores",
+        "part2": "Herba",
+        "part3": "Fructus",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Flores"
+            },
+            {
+                "name": "Herba"
+            },
+            {
+                "name": "Fructus"
+            }
+        ]
+    },
+    {
+        "name": "Taraxacum officinale",
+        "name_sq": "Luleshurdha",
+        "name_sr": "Maslačak",
+        "part1": "herba",
+        "part2": "flores",
+        "part3": "radix",
+        "part4": "folia",
+        "parts": [
+            {
+                "name": "herba"
+            },
+            {
+                "name": "flores"
+            },
+            {
+                "name": "radix"
+            },
+            {
+                "name": "folia"
+            }
+        ]
+    },
+    {
+        "name": "Tilia argentea",
+        "name_sq": "Lule bliri",
+        "name_sr": "Crvena Lipa",
+        "part1": "folia",
+        "part2": "flores",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "folia"
+            },
+            {
+                "name": "flores"
+            }
+        ]
+    },
+    {
+        "name": "Tilia cordata",
+        "name_sq": "Lule bliri",
+        "name_sr": "Lipa",
+        "part1": "folia",
+        "part2": "flores",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "folia"
+            },
+            {
+                "name": "flores"
+            }
+        ]
+    },
+    {
+        "name": "Trifolium pratense",
+        "name_sq": "Terfili kuq",
+        "name_sr": "Crvena djetelina",
+        "part1": "Flores",
+        "part2": "Herba",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Flores"
+            },
+            {
+                "name": "Herba"
+            }
+        ]
+    },
+    {
+        "name": "Urtica dioica",
+        "name_sq": "Hithra",
+        "name_sr": "Kopriva",
+        "part1": "folia",
+        "part2": "herba",
+        "part3": "radix",
+        "part4": "semen",
+        "parts": [
+            {
+                "name": "folia"
+            },
+            {
+                "name": "herba"
+            },
+            {
+                "name": "radix"
+            },
+            {
+                "name": "semen"
+            }
+        ]
+    },
+    {
+        "name": "Vaccinium myrtillus",
+        "name_sq": "Boronica",
+        "name_sr": "Borovnica",
+        "part1": "folia",
+        "part2": "fructus",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "folia"
+            },
+            {
+                "name": "fructus"
+            }
+        ]
+    },
+    {
+        "name": "Verbascum thapsus",
+        "name_sq": "Netull",
+        "name_sr": "Divizma",
+        "part1": "flores",
+        "part2": "folia",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "flores"
+            },
+            {
+                "name": "folia"
+            }
+        ]
+    },
+    {
+        "name": "Viola tricolor",
+        "name_sq": "Manushaqe trengjyrëshe",
+        "name_sr": "Sarena ljubicica",
+        "part1": "Flores",
+        "part2": "Herba",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Flores"
+            },
+            {
+                "name": "Herba"
+            }
+        ]
+    },
+    {
+        "name": "Dryopteris filix mas",
+        "name_sq": "Driopteris",
+        "name_sr": "muška paprat",
+        "part1": "folia",
+        "part2": "herba",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "folia"
+            },
+            {
+                "name": "herba"
+            }
+        ]
+    },
+    {
+        "name": "Epilobium angustifolium",
+        "name_sq": "Epilob",
+        "name_sr": "Vrbovica",
+        "part1": "herba",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "herba"
+            }
+        ]
+    },
+    {
+        "name": "Epilobium parviflorum",
+        "name_sq": "Epilob",
+        "name_sr": "Vrbovica biljka",
+        "part1": "folia",
+        "part2": "herba",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "folia"
+            },
+            {
+                "name": "herba"
+            }
+        ]
+    },
+    {
+        "name": "Equisetum arvense",
+        "name_sq": "Këputja e arave",
+        "name_sr": "Rastavic",
+        "part1": "folia",
+        "part2": "herba",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "folia"
+            },
+            {
+                "name": "herba"
+            }
+        ]
+    },
+    {
+        "name": "Hedera helix",
+        "name_sq": "Urthi",
+        "name_sr": "Brshljan",
+        "part1": "folia",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "folia"
+            }
+        ]
+    },
+    {
+        "name": "Hyssopus officinalis",
+        "name_sq": "Shpirti ëmbël",
+        "name_sr": "Miloduh",
+        "part1": "Flores",
+        "part2": "herba",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Flores"
+            },
+            {
+                "name": "herba"
+            }
+        ]
+    },
+    {
+        "name": "Juglandis regia",
+        "name_sq": "Arra",
+        "name_sr": "Orah",
+        "part1": "folia",
+        "part2": "fruit",
+        "part3": "cortex",
+        "part4": "",
+        "parts": [
+            {
+                "name": "folia"
+            },
+            {
+                "name": "fruit"
+            },
+            {
+                "name": "cortex"
+            }
+        ]
+    },
+    {
+        "name": "Lavandula angustifolia",
+        "name_sq": "Lavendula",
+        "name_sr": "Lavanda",
+        "part1": "flores",
+        "part2": "seed",
+        "part3": "seedling",
+        "part4": "",
+        "parts": [
+            {
+                "name": "flores"
+            },
+            {
+                "name": "seed"
+            },
+            {
+                "name": "seedling"
+            }
+        ]
+    },
+    {
+        "name": "Morus nigra",
+        "name_sq": "Mani zi",
+        "name_sr": "Crna murva",
+        "part1": "folia",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "folia"
+            }
+        ]
+    },
+    {
+        "name": "Origanum heracleticum",
+        "name_sq": "Qaj mali",
+        "name_sr": "Mravinac",
+        "part1": "folia",
+        "part2": "pulvis",
+        "part3": "semen",
+        "part4": "seed",
+        "parts": [
+            {
+                "name": "folia"
+            },
+            {
+                "name": "pulvis"
+            },
+            {
+                "name": "semen"
+            },
+            {
+                "name": "seed"
+            }
+        ]
+    },
+    {
+        "name": "Origanum vulgare",
+        "name_sq": "Qaj mali",
+        "name_sr": "Mravinac",
+        "part1": "herba",
+        "part2": "folia",
+        "part3": "pulvis",
+        "part4": "seed",
+        "parts": [
+            {
+                "name": "herba"
+            },
+            {
+                "name": "folia"
+            },
+            {
+                "name": "pulvis"
+            },
+            {
+                "name": "seed"
+            }
+        ]
+    },
+    {
+        "name": "Papaver somniferum",
+        "name_sq": "Lulëkuqja",
+        "name_sr": "Opijumski mak",
+        "part1": "flores",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "flores"
+            }
+        ]
+    },
+    {
+        "name": "Plantago lanceolata",
+        "name_sq": "Kallinj delli",
+        "name_sr": "Srednji trputac",
+        "part1": "folia",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "folia"
+            }
+        ]
+    },
+    {
+        "name": "Plantago major",
+        "name_sq": "Kallinj delli",
+        "name_sr": "Veliki trputac",
+        "part1": "folia",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "folia"
+            }
+        ]
+    },
+    {
+        "name": "Primula veris (officinalis)",
+        "name_sq": "Aguliqja",
+        "name_sr": "Rani jaglac",
+        "part1": "flores",
+        "part2": "radix",
+        "part3": "semen",
+        "part4": "",
+        "parts": [
+            {
+                "name": "flores"
+            },
+            {
+                "name": "radix"
+            },
+            {
+                "name": "semen"
+            }
+        ]
+    },
+    {
+        "name": "Prunus domestiica",
+        "name_sq": "Kumbullua",
+        "name_sr": "Sljiva",
+        "part1": "fruit",
+        "part2": "folia",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "fruit"
+            },
+            {
+                "name": "folia"
+            }
+        ]
+    },
+    {
+        "name": "Prunus spinosa",
+        "name_sq": "Kulumria",
+        "name_sr": "Trn",
+        "part1": "flores",
+        "part2": "fructus",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "flores"
+            },
+            {
+                "name": "fructus"
+            }
+        ]
+    },
+    {
+        "name": "Pyrus pyraster",
+        "name_sq": "Dardha e egër",
+        "name_sr": "Divlja kruska",
+        "part1": "fruit",
+        "part2": "folia",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "fruit"
+            },
+            {
+                "name": "folia"
+            }
+        ]
+    },
+    {
+        "name": "Ribes rubrum",
+        "name_sq": "Rrush serezi kuq",
+        "name_sr": "Crvena ribizla",
+        "part1": "folia",
+        "part2": "fructus",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "folia"
+            },
+            {
+                "name": "fructus"
+            }
+        ]
+    },
+    {
+        "name": "Rosmarina officinalis",
+        "name_sq": "Rozmarina",
+        "name_sr": "Ruzmarin",
+        "part1": "herba",
+        "part2": "folia",
+        "part3": "semen",
+        "part4": "seed",
+        "parts": [
+            {
+                "name": "herba"
+            },
+            {
+                "name": "folia"
+            },
+            {
+                "name": "semen"
+            },
+            {
+                "name": "seed"
+            }
+        ]
+    },
+    {
+        "name": "Satureja montana",
+        "name_sq": "Trumza",
+        "name_sr": "Vrisak",
+        "part1": "Folia",
+        "part2": "herba",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Folia"
+            },
+            {
+                "name": "herba"
+            }
+        ]
+    },
+    {
+        "name": "Sideritis scardica",
+        "name_sq": "Qaj Sharri",
+        "name_sr": "Šarplaninski čaj",
+        "part1": "folia",
+        "part2": "flores",
+        "part3": "semen",
+        "part4": "",
+        "parts": [
+            {
+                "name": "folia"
+            },
+            {
+                "name": "flores"
+            },
+            {
+                "name": "semen"
+            }
+        ]
+    },
+    {
+        "name": "Sorbus aucupariaa",
+        "name_sq": "Vadha e eger",
+        "name_sr": "Jarebika",
+        "part1": "Fructus",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Fructus"
+            }
+        ]
+    },
+    {
+        "name": "Thymus serpillum",
+        "name_sq": "Krasta",
+        "name_sr": "Majcina dusica",
+        "part1": "Folia",
+        "part2": "herba",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Folia"
+            },
+            {
+                "name": "herba"
+            }
+        ]
+    },
+    {
+        "name": "Thymus vulgaris",
+        "name_sq": "Krasta",
+        "name_sr": "Majcina dusica",
+        "part1": "Folia",
+        "part2": "herba",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Folia"
+            },
+            {
+                "name": "herba"
+            }
+        ]
+    },
+    {
+        "name": "Tussilago farfara",
+        "name_sq": "Thundër mushka",
+        "name_sr": "Konjska kopita",
+        "part1": "folia",
+        "part2": "flores",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "folia"
+            },
+            {
+                "name": "flores"
+            }
+        ]
+    },
+    {
+        "name": "Usnea barabarta",
+        "name_sq": "Mjekrra plakut",
+        "name_sr": "Starceva brada",
+        "part1": "Herba",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Herba"
+            }
+        ]
+    },
+    {
+        "name": "Viola odorata",
+        "name_sq": "Manushaqja",
+        "name_sr": "Ljubica",
+        "part1": "flores",
+        "part2": "herba",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "flores"
+            },
+            {
+                "name": "herba"
+            }
+        ]
+    },
+    {
+        "name": "Boletus edulis",
+        "name_sq": "Kërpudha porcini",
+        "name_sr": "Vrganj",
+        "part1": "mushroom",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "mushroom"
+            }
+        ]
+    },
+    {
+        "name": "Cantharelus cibarius",
+        "name_sq": "Dhelprakja",
+        "name_sr": "lisičarka",
+        "part1": "mushroom",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "mushroom"
+            }
+        ]
+    },
+    {
+        "name": "Cornus mas",
+        "name_sq": "Thana",
+        "name_sr": "Drijen",
+        "part1": "Fructus",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Fructus"
+            }
+        ]
+    },
+    {
+        "name": "Craterellus cornucopioides",
+        "name_sq": "Boria zezë",
+        "name_sr": "Crna truba",
+        "part1": "mushroom",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "mushroom"
+            }
+        ]
+    },
+    {
+        "name": "Juniperus oxycedrus",
+        "name_sq": "Dëllinja e kuqe",
+        "name_sr": "Smrika",
+        "part1": "Fructus",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Fructus"
+            }
+        ]
+    },
+    {
+        "name": "Morchella conica",
+        "name_sq": "Morel Kërpudha",
+        "name_sr": "smrcak",
+        "part1": "mushroom",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "mushroom"
+            }
+        ]
+    },
+    {
+        "name": "Primula officinalis",
+        "name_sq": "Aguliqja",
+        "name_sr": "jagorcevine",
+        "part1": "Flores",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Flores"
+            }
+        ]
+    },
+    {
+        "name": "Origanum Heraclecitum",
+        "name_sq": "Rigoni bardh",
+        "name_sr": "Divlji oregano",
+        "part1": "Herba",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Herba"
+            }
+        ]
+    },
+    {
+        "name": "Helichrysum italicum",
+        "name_sq": "Makthi",
+        "name_sr": "Smilj",
+        "part1": "Herba",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Herba"
+            }
+        ]
+    },
+    {
+        "name": "Lavandula officinalis",
+        "name_sq": "Lavendula",
+        "name_sr": "Lavanda",
+        "part1": "Herba",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Herba"
+            }
+        ]
+    },
+    {
+        "name": "Ocimum basilicum",
+        "name_sq": "Borzilok",
+        "name_sr": "Bosiljak",
+        "part1": "herba",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "herba"
+            }
+        ]
+    },
+    {
+        "name": "Aronia sp",
+        "name_sq": "Aronia",
+        "name_sr": "Aronia",
+        "part1": "fructus",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "fructus"
+            }
+        ]
+    },
+    {
+        "name": "Arnica montana",
+        "name_sq": "Arnica",
+        "name_sr": "Brdjanka",
+        "part1": "flores",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "flores"
+            }
+        ]
+    },
+    {
+        "name": "Centaurium umbellatum",
+        "name_sq": "Bari etheve",
+        "name_sr": "Kičica",
+        "part1": "herba",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "herba"
+            }
+        ]
+    },
+    {
+        "name": "Cichorium intybus",
+        "name_sq": "Bresa",
+        "name_sr": "Cikori",
+        "part1": "herba",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "herba"
+            }
+        ]
+    },
+    {
+        "name": "Foeniculum vulgare",
+        "name_sq": "Maraja",
+        "name_sr": "Obični komorač",
+        "part1": "seed",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "seed"
+            }
+        ]
+    },
+    {
+        "name": "Geranium robertarium",
+        "name_sq": "Kamaroshja e Robertit",
+        "name_sr": "Zdravac",
+        "part1": "herba",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "herba"
+            }
+        ]
+    },
+    {
+        "name": "Iris germanica",
+        "name_sq": "Shpatorja",
+        "name_sr": "Perunika",
+        "part1": "Radix",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Radix"
+            }
+        ]
+    },
+    {
+        "name": "Melilotus officinalis",
+        "name_sq": "Terfili ëmbël",
+        "name_sr": "Žuti kokotac",
+        "part1": "flores",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "flores"
+            }
+        ]
+    },
+    {
+        "name": "Mellissa officinalis",
+        "name_sq": "Melisa",
+        "name_sr": "Matičnjak",
+        "part1": "herba",
+        "part2": "folia",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "herba"
+            },
+            {
+                "name": "folia"
+            }
+        ]
+    },
+    {
+        "name": "Salix alba",
+        "name_sq": "Shelgu",
+        "name_sr": "Bela vrba",
+        "part1": "Cortex",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Cortex"
+            }
+        ]
+    },
+    {
+        "name": "Thymus longicaulis",
+        "name_sq": "Trumeza",
+        "name_sr": "Majčina dušica",
+        "part1": "herba",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "herba"
+            }
+        ]
+    },
+    {
+        "name": "Triticum aestivum",
+        "name_sq": "Gruri zakonshem",
+        "name_sr": "Pšenica",
+        "part1": "seed",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "seed"
+            }
+        ]
+    },
+    {
+        "name": "Valeriana officinalis",
+        "name_sq": "Valeriana",
+        "name_sr": "Valerijana",
+        "part1": "Radix",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Radix"
+            }
+        ]
+    },
+    {
+        "name": "Verbascum densiflorum",
+        "name_sq": "Verbasku",
+        "name_sr": "divizma",
+        "part1": "flores",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "flores"
+            }
+        ]
+    },
+    {
+        "name": "Verbena officinalis",
+        "name_sq": "Verbena",
+        "name_sr": "Verbena",
+        "part1": "flores",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "flores"
+            }
+        ]
+    },
+    {
+        "name": "Origanum majorana",
+        "name_sq": "Rigoni",
+        "name_sr": "Mažuran",
+        "part1": "Folia",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Folia"
+            }
+        ]
+    },
+    {
+        "name": "Satureja hortensis",
+        "name_sq": "Trumza",
+        "name_sr": "Čubar",
+        "part1": "Folia",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "Folia"
+            }
+        ]
+    },
+    {
+        "name": "Triticum vulgaris",
+        "name_sq": "Gruri",
+        "name_sr": "Psenica",
+        "part1": "herba",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "herba"
+            }
+        ]
+    },
+    {
+        "name": "Alfalfa",
+        "name_sq": "Jongja",
+        "name_sr": "detelina",
+        "part1": "herba",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "herba"
+            }
+        ]
+    },
+    {
+        "name": "Origanum vulgaris",
+        "name_sq": "Rigoni zakonshem",
+        "name_sr": "Divlji mažuran",
+        "part1": "seed",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "parts": [
+            {
+                "name": "seed"
+            }
+        ]
+    }
+]
